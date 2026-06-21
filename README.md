@@ -95,16 +95,19 @@ Create a public storage bucket named `complaint-images`.
 ## 📸 Screenshots
 
 ### Login Page
-![Login](https://via.placeholder.com/800x450?text=Login+Page)
+![Login](./screenshots/login.png)
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450?text=Dashboard)
+![Dashboard](./screenshots/dashboard.png)
 
 ### AI Chatbot
-![Chatbot](https://via.placeholder.com/800x450?text=AI+Chatbot)
+![Chatbot](./screenshots/chatbot.png)
+
+### Report Issue
+![Report](./screenshots/report.png)
 
 ### Water Safety Checker
-![Checker](https://via.placeholder.com/800x450?text=Safety+Checker)
+![Checker](./screenshots/checker.png)
 
 ---
 
