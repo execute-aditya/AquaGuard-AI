@@ -161,9 +161,3 @@ aquaguard-ai/
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-## 👨‍💻 Author
-
-**Aditya Dattatray Dhembare**
-
-Built as a Capstone Project for UN Sustainable Development Goal 6 — Clean Water and Sanitation.
